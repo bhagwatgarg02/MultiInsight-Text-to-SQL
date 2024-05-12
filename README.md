@@ -29,7 +29,7 @@ Ready to witness the transformation? Let's get started!
 
 ### 🤖 Chatbot Features 👦
 
-1. **Versatile Data Support 📊:**
+1. ## <span style="font-size: smaller;">Versatile Data Support 📊:</span>
    - Seamlessly handle Excel and CSV formats, ensuring compatibility with a diverse range of datasets.
 2. **CSV to SQL Conversion 📊:**
 
