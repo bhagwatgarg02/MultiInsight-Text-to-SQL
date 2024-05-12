@@ -3,7 +3,7 @@
 <span style="font-size: 14px;">Welcome to Chat with your EXCEL/CSV Files, your platform for seamless interaction with your Files! Whether you're looking to extract insights, brainstorm ideas, or simply explore your documents in a whole new way, Chat empowers you with AI-driven capabilities. Engage in natural language conversations with your PDFs, allowing you to extract valuable information, generate insights, and explore the contents like never before. Let PDF Chat unlock the potential of your documents and streamline your workflow effortlessly.</span>
 
 
-## Instructions
+### Instructions
 
 🔑 **Collect Your API Key:**
 Before diving into the exciting world of document conversations, you'll need to obtain your API key from BAM platform. This key serves as your passport to unlock the full potential of GenAI. Once you have it, simply enter it below to get started!
@@ -25,9 +25,9 @@ Now that you have your API key ready, let's embark on the journey of transformin
 
 Ready to witness the transformation? Let's get started!
 
-# Features
+### Features
 
-## 🤖 Chatbot Features 👦
+### 🤖 Chatbot Features 👦
 
 1. **Versatile Data Support 📊:**
    - Seamlessly handle Excel and CSV formats, ensuring compatibility with a diverse range of datasets.
@@ -97,11 +97,11 @@ Ready to witness the transformation? Let's get started!
     - Remove all tables
     - Remove table schema
 
-## Try it Out!
+### Try it Out!
 
 Feel free to explore the features of GenAI and turn your CSV/Excel files into conversational companions!
 
-# Use Cases for MultiInsight Text-to-SQL:
+### Use Cases for MultiInsight Text-to-SQL:
 
 1. **Sales Data Analysis:**
 
