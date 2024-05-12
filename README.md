@@ -1,4 +1,4 @@
-<h1 style="font-size: 22px;">🌟 Welcome to GenAI - Your Gateway to Turning CSV/EXCEL into Conversational Companions! 🌟</h1>
+<h1 style="font-size: 20px;">🌟 Welcome to GenAI - Your Gateway to Turning CSV/EXCEL into Conversational Companions! 🌟</h1>
 
 <p><span style="font-size: 16px;">Welcome to Chat with your EXCEL/CSV Files, your platform for seamless interaction with your Files! Whether you're looking to extract insights, brainstorm ideas, or simply explore your documents in a whole new way, Chat empowers you with AI-driven capabilities. Engage in natural language conversations with your PDFs, allowing you to extract valuable information, generate insights, and explore the contents like never before. Let PDF Chat unlock the potential of your documents and streamline your workflow effortlessly.</span></p>
 
