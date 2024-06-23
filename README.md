@@ -2,16 +2,18 @@
 
 <span style="font-size: 14px;">Welcome to Chat with your EXCEL/CSV Files, your platform for seamless interaction with your Files! Whether you're looking to extract insights, brainstorm ideas, or simply explore your documents in a whole new way, Chat empowers you with AI-driven capabilities. Engage in natural language conversations with your PDFs, allowing you to extract valuable information, generate insights, and explore the contents like never before. Let PDF Chat unlock the potential of your documents and streamline your workflow effortlessly.</span>
 
-**Technical Stack**: 
-Programming Language: Python/n
-Libraries: Streamlit,SQLite,sqlalchemy/n
-AI: RAGs, llama2/3index, IBM genai/n
+## Technical Stack
+**Programming Language:** Python
 
-**Usage**:
-To run the Streamlit app, use the following command:/n
-streamlit run MultiInsight-Text-to-SQL.py/n
- 
-**Instructions**
+**Libraries:** Streamlit, SQLite, SQLAlchemy
+
+**AI:** RAGs, Llama2/3index, IBM GenAI
+
+## Usage
+To run the Streamlit app, use the following command:
+streamlit run MultiInsight-Text-to-SQL.py
+
+## Instructions
 
 🔑 *Collect Your API Key:*
 Before diving into the exciting world of document conversations, you'll need to obtain your API key from BAM platform. This key serves as your passport to unlock the full potential of GenAI. Once you have it, simply enter it below to get started!
