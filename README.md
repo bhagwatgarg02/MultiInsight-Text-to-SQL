@@ -36,9 +36,9 @@ Now that you have your API key ready, let's embark on the journey of transformin
 
 Ready to witness the transformation? Let's get started!
 
-## Features
+# Features
 
-## 🤖 Chatbot Features 👦
+# 🤖 Chatbot Features 👦
 
 1. **Versatile Data Support 📊:**
    - Seamlessly handle Excel and CSV formats, ensuring compatibility with a diverse range of datasets.
