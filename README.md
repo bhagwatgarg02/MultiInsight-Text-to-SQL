@@ -16,13 +16,13 @@ streamlit run MultiInsight-Text-to-SQL.py
 
 ### Instructions
 
-🔑 *Collect Your API Key:*
+🔑 ***Collect Your API Key:***
 Before diving into the exciting world of document conversations, you'll need to obtain your API key from BAM platform. This key serves as your passport to unlock the full potential of GenAI. Once you have it, simply enter it below to get started!
 
-🚀 *High-Level Steps:*
+🚀 ***High-Level Steps:***
 Now that you have your API key ready, let's embark on the journey of transforming your CSVs/Excels into conversational companions. Here's a quick overview of what's ahead:
 
-1. **Upload Your CSV/Excel Files:** 📊
+1. ***Upload Your CSV/Excel Files:*** 📊
    Begin by uploading your CSV/Excel files containing the data you want to interact with. First time, it will take time to create a database and indexing. Each file will be processed separately, and tables will be created for them.
 
 2. **Start Chatting!** 💬
