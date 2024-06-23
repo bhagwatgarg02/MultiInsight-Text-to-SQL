@@ -11,6 +11,7 @@
 
 ## Usage
 To run the Streamlit app, use the following command:
+
 streamlit run MultiInsight-Text-to-SQL.py
 
 ## Instructions
